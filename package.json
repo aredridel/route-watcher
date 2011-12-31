@@ -1,0 +1,15 @@
+{
+  "author": "Aria Stewart <aredridel@nbtsc.org>",
+  "name": "route-watcher",
+  "description": "A route plumber and reloader for express",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.7 || 0.6.7-pre"
+  },
+  "main": "./lib/route-watcher.js",
+  "dependencies": {},
+  "devDependencies": {}
+}
