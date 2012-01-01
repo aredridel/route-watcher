@@ -2,7 +2,7 @@
   "author": "Aria Stewart <aredridel@nbtsc.org>",
   "name": "route-watcher",
   "description": "A route plumber and reloader for express",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "url": "git://github.com/aredridel/route-watcher.git"
   },
